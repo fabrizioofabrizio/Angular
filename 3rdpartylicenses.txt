@@ -362,10 +362,10 @@ MIT
 @angular/router
 MIT
 
-@angular/fire
+@angular/fire/database
 MIT
 
-@angular/fire/database
+@angular/fire
 MIT
 
 firebase/database
