@@ -138,16 +138,10 @@ Apache-2.0
 @firebase/util
 Apache-2.0
 
-@firebase/firestore
+@firebase/database
 Apache-2.0
 
 @firebase/logger
-Apache-2.0
-
-@firebase/webchannel-wrapper
-Apache-2.0
-
-@firebase/database
 Apache-2.0
 
 rxjs
@@ -359,7 +353,7 @@ Apache-2.0
 @angular/core
 MIT
 
-@angular/fire/firestore
+@angular/fire/database
 MIT
 
 @angular/common
@@ -368,18 +362,13 @@ MIT
 @angular/fire
 MIT
 
-firebase/firestore
+firebase/database
 
 @angular/platform-browser
 MIT
 
 @angular/router
 MIT
-
-@angular/fire/database
-MIT
-
-firebase/database
 
 zone.js
 MIT
