@@ -353,22 +353,22 @@ Apache-2.0
 @angular/core
 MIT
 
-@angular/fire/database
-MIT
-
 @angular/common
 MIT
-
-@angular/fire
-MIT
-
-firebase/database
 
 @angular/platform-browser
 MIT
 
 @angular/router
 MIT
+
+@angular/fire/database
+MIT
+
+@angular/fire
+MIT
+
+firebase/database
 
 zone.js
 MIT
