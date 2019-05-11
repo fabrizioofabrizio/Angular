@@ -359,22 +359,22 @@ Apache-2.0
 @angular/core
 MIT
 
+@angular/fire/firestore
+MIT
+
 @angular/common
 MIT
+
+@angular/fire
+MIT
+
+firebase/firestore
 
 @angular/platform-browser
 MIT
 
 @angular/router
 MIT
-
-@angular/fire
-MIT
-
-@angular/fire/firestore
-MIT
-
-firebase/firestore
 
 @angular/fire/database
 MIT
