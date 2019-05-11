@@ -368,10 +368,10 @@ MIT
 @angular/router
 MIT
 
-@angular/fire/firestore
+@angular/fire
 MIT
 
-@angular/fire
+@angular/fire/firestore
 MIT
 
 firebase/firestore
